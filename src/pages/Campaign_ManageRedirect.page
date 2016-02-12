@@ -1,0 +1,3 @@
+<apex:page standardController="Campaign" extensions="Campaign_ManageRedirect" action="{!initialize}">
+    <apex:outputPanel layout="none" rendered="{!ISBLANK(Campaign.RecordTypeId)}"></apex:outputPanel>
+</apex:page>
