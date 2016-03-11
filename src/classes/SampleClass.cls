@@ -6,7 +6,7 @@ public class SampleClass {
     }
 	
 	public void print() {
-	   System.Debug('Demo...');
+	   System.Debug('Demo... Excellent...!!!');
 	}
 
 }
